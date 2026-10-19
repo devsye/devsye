@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Abolfazl 👋
 
-<!--
-**devsye/devsye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in building things, exploring new ideas, and learning through hands-on projects.
 
-Here are some ideas to get you started:
+Most of my projects revolve around networking, internet technologies, Telegram bots, and open-source software. I enjoy experimenting with different tools, turning ideas into working projects, and sharing what I build with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Work On
+
+- 🌐 Networking and internet-related projects
+- 🤖 Telegram bots and automation
+- 🛠️ Small tools and practical utilities
+- 💻 Open-source projects and experiments
+
+A Little More About Me
+
+I'm still learning, experimenting, and improving with every project. I believe the best way to learn is by building, testing, making mistakes, and trying again.
+
+This GitHub profile is where I share my projects, ideas, and things I work on along the way.
+
+Always learning. Always building.
